@@ -1,2 +1,2 @@
-# react-pogoda
+# Weather application
  
